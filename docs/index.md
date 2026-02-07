@@ -58,7 +58,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 **Morokot Sakal**, George M. Nehma, Camilo Riano-Rios, Madhur Tiwari  
 *Journal of Guidance, Control, and Dynamics* (Under Review); *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-682.
 
-[PDF](https://www.camilori.com/files/2025-aiaa-asc-1.pdf) / [Video](https://youtu.be/a6q9D74rS3w).
+[PDF](https://www.camilori.com/files/2025-aiaa-asc-1.pdf) / [Video](https://youtu.be/a6q9D74rS3w)
 
   </div>
 </div>
