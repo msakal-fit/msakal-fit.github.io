@@ -1,0 +1,8 @@
+site_name: Morokot Sakal
+site_url: https://msakal-fit.github.io/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
