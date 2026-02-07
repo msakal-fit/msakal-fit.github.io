@@ -1,8 +1,32 @@
 site_name: Morokot Sakal
+site_description: From Cambodia to Space
 site_url: https://msakal-fit.github.io/
 
-theme:
-  name: material
+repo_url: https://github.com/msakal-fit/msakal-fit.github.io
+repo_name: msakal-fit/msakal-fit.github.io
 
 nav:
   - Home: index.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - content.code.copy
+
+extra_css:
+  - styles/fit-colors.css
+  - styles/proj.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - footnotes
+  - tables
