@@ -1,0 +1,35 @@
+/* container */
+.md-typeset .projects { display: grid; gap: 28px; }
+
+/* row */
+.projects .proj {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-template-areas: "media body";
+  gap: 20px;
+  align-items: center;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* alternating background */
+.projects .proj:nth-child(even) { background: rgba(0,0,0,.035); }
+[data-md-color-scheme="slate"] .projects .proj:nth-child(even) { background: rgba(255,255,255,.06); }
+
+/* image and text placement */
+.projects .proj > img { grid-area: media; width: 100%; height: 120px; object-fit: cover; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+.projects .proj > .txt { grid-area: body; }
+
+/* tidy heading spacing */
+.projects .proj > .txt > :first-child { margin-top: 0; }
+
+/* mobile */
+@media (max-width: 800px) {
+  .projects .proj {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "media"
+      "body";
+  }
+  .projects .proj > img { height: auto; }
+}

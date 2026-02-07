@@ -1,0 +1,29 @@
+/* Load Lato (text) and Bitter (headings) */
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Lato:wght@300;400;700&display=swap');
+
+/* FIT Brand colors from official guidelines:
+   Crimson #770000, Gold #AB946C, Athletics Gray #CBCCCE */
+:root {
+  --fit-crimson: #770000;
+  --fit-gold: #AB946C;
+  --fit-gray: #CBCCCE;
+}
+
+/* Material for MkDocs color variables */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--fit-crimson);
+  --md-accent-fg-color: var(--fit-gold);
+}
+
+/* Headings in Bitter per FIT web guidance */
+:root {
+  --md-text-font: "Lato", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+}
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  font-family: "Bitter", Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+/* Optional: links and buttons leaning toward gold accent */
+:root {
+  --md-typeset-a-color: var(--fit-gold);
+}
