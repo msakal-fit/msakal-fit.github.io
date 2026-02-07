@@ -33,3 +33,50 @@
   }
   .projects .proj > img { height: auto; }
 }
+
+/* ===== Home page: intro text + profile photo ===== */
+.home-hero{
+  display: grid;
+  grid-template-columns: 1fr minmax(220px, 320px);
+  column-gap: 2.5rem;
+  align-items: start;
+  margin-bottom: 1rem;
+}
+
+.home-hero__text{
+  min-width: 0;
+}
+
+/* right column positioning */
+.home-hero__photo{
+  justify-self: end;     /* push photo to the right edge */
+  align-self: center;    /* keep it center-aligned */
+  margin-top: 0;         /* moves photo down to align with paragraph better */
+}
+
+/* image sizing + crop */
+.home-hero__photo img{
+  width: 300px;          /* change to 260–320 based on preference */
+  max-width: 100%;
+  height: clamp(320px, 40vh, 420px); /* controls “tallness”; try 320–380 */
+  object-fit: cover;     /* crop instead of stretching */
+  object-position: 50% 25%; /* move crop window: (x y). try 50% 15% or 50% 25% */
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 1px 8px rgba(0,0,0,.14);
+}
+
+@media (max-width: 900px){
+  .home-hero{
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+  }
+  .home-hero__photo{
+    justify-self: start;
+    margin-top: 0;
+  }
+  .home-hero__photo img{
+    width: 220px;
+    height: 260px;
+  }
+}

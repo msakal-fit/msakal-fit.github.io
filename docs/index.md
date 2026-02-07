@@ -3,14 +3,33 @@ hide:
   - toc
 ---
 
+<div class="home-hero" markdown="1">
+
+<div class="home-hero__text" markdown="1">
+
 # Morokot Sakal
 
 I’m a PhD student in Aerospace Engineering at [Florida Tech](https://www.fit.edu/), supervised by [Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). I work on guidance, navigation, and control (GNC), adaptive/learning controllers, and hardware-in-the-loop (HIL) testbeds for small spacecraft.
 
+Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/), where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html), including plug-and-play payload integration and fault detection and recovery software to support mission operations.
+
+I worked with [Dr. Maximilien Berthet](https://www.maximilienberthet.com/) on the 1U CubeSat [Apsara-1](http://dclab.itc.edu.kh/ut-itc-cube-satellite-project) project in Phnom Penh, Cambodia (Dec 2020 – Jul 2021), a collaboration between the [Dynamics and Control Laboratory](http://dclab.itc.edu.kh/) at [Institute of Technology of Cambodia](https://itc.edu.kh/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/). We submitted the design specification to the 6th-round [KiboCUBE](https://www.unoosa.org/oosa/en/ourwork/access2space4all/KiboCUBE/KiboCUBE_Index.html) call.
+
+I enjoy mentoring student teams in robotics competitions, including the [World Robotics Olympiad](https://sites.google.com/view/aupphsrobotics/wro?authuser=0) and Cambodia Robotics Competition, as well as space competitions such as the [International Space Challenge](https://spacefaculty.asia/isc/).
+
 <!-- [Email](mailto:morokot@example.com) / -->
 [Google Scholar](https://scholar.google.com/citations?user=43ccP74AAAAJ&hl=en) /  [LinkedIn](https://www.linkedin.com/in/morokot-sakal/) / [GitHub](https://github.com/msakal-fit) / [YouTube](https://www.youtube.com/@msakal2024)
 
+</div>
+
+<div class="home-hero__photo">
+  <img src="assets/profile.jpg" alt="Morokot Sakal" />
+</div>
+
+</div>
+
 ---
+
 
 ## Research
 
