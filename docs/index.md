@@ -9,9 +9,9 @@ hide:
 
 # Morokot Sakal
 
-I’m a PhD student in Aerospace Engineering at [Florida Institute of Technology](https://www.fit.edu/), supervised by [Dr. Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). I work on guidance, navigation, and control (GNC), adaptive/learning controllers, and hardware-in-the-loop (HIL) testbeds for small spacecraft.
+I’m a PhD student in Aerospace Engineering at [Florida Institute of Technology](https://www.fit.edu/), supervised by [Dr. Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). 
 
-Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/) in Japan, where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html), including plug-and-play payload integration and fault detection and recovery software to support mission operations.
+Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/) in Japan, where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html). 
 
 I worked with [Dr. Maximilien Berthet](https://www.maximilienberthet.com/) on the 1U CubeSat [Apsara-1](http://dclab.itc.edu.kh/ut-itc-cube-satellite-project) project in Cambodia, a collaboration between the [Dynamics and Control Laboratory](http://dclab.itc.edu.kh/) at [Institute of Technology of Cambodia](https://itc.edu.kh/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/). We submitted the design specification to the 6th-round [KiboCUBE](https://www.unoosa.org/oosa/en/ourwork/access2space4all/KiboCUBE/KiboCUBE_Index.html) call.
 
@@ -32,6 +32,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 
 
 ## Research
+I work on guidance, navigation, and control (GNC), adaptive/learning controllers, and hardware-in-the-loop (HIL) testbeds for small spacecraft. My previous work at Tohoku University included plug-and-play payload integration and fault detection and recovery software to support mission operations.
 
 <div class="projects" markdown="1">
 
@@ -42,7 +43,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 ### Real-Time Estimation of Drag-Based Parameters in LEO via Adaptive Control and Sparse Identification
 <!--Real-time estimation of drag-based parameters in LEO using adaptive control with sparse identification ideas. -->
 **Morokot Sakal**, Camilo Riano-Rios, Madhur Tiwari  
-*AIAA SciTech Forum*, 2026  
+*AIAA SciTech Forum*, 2026. 
 <!--[DOI](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2625) / -->
 [PDF](https://www.camilori.com/files/2026-aiaa-scitech-1.pdf) / [Video](https://youtu.be/Iv0AO12XWS0)
 
@@ -50,7 +51,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 </div>
 
 <div class="proj" markdown="1">
-  <img src="assets/rbrnn-rw.png" alt="Reaction wheel health estimation via RBFNN thumbnail">
+  <img src="assets/rbfnn-rw.png" alt="Reaction wheel health estimation via RBFNN thumbnail">
   <div class="txt" markdown="1">
 
 ### Radial Basis Function Neural Network–Based Adaptive Attitude Control with Reaction–Wheel Health Estimation
@@ -98,9 +99,9 @@ George M. Nehma, Camilo Riano-Rios, **Morokot Sakal**, Madhur Tiwari
 ### International Collaboration Towards Cambodia’s First Small Satellite Education Program: Lessons Learnt
 <!-- Lessons learned from building Cambodia’s first small satellite education program through an ITC–UTokyo collaboration. -->
 Maximilien Berthet, **Morokot Sakal**, Penghuy Srean, Sotheara Oum, Polimey Im, Sokserey Srey, Ryohei Takahashi, Jorge Garcia, Nobuhiro Funabiki, Yoichi Suenaga, Rattana Chhin  
-*35th AIAA/USU Small Satellite Conference (SmallSat)*, 2021 (SSC21-WKI-01)
+*35th AIAA/USU Small Satellite Conference (SmallSat)*, 2021 (SSC21-WKI-01).
 <!-- *Keywords:* CubeSat education, international collaboration, capacity building -->
-[PDF](https://digitalcommons.usu.edu/smallsat/2021/all2021/229) 
+[PDF](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5103&context=smallsat) / [Slide](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?filename=0&article=5103&context=smallsat&type=additional)
 <!--/ [DOI](https://doi.org/10.26077/64yp-jt95)-->
 
   </div>
@@ -113,7 +114,7 @@ Maximilien Berthet, **Morokot Sakal**, Penghuy Srean, Sotheara Oum, Polimey Im, 
 ### Integration and Orbit Demonstration of Micro-Satellite Payload System Based on a Plug-and-Play On-Board Computer
 <!-- Plug-and-play payload system integration and on-orbit demonstration on RISESAT. -->
 **Morokot Sakal**, Toshinori Kuwahara, Hannah Tomio, Yu Murata, Kosuke Hanyu, Shinya Fujita, Yuji Sato, Yuji Sakamoto, Shinichi Kimura, Junichi Kurihara  
-*TRANSACTIONS of the JASS, Aerospace Technology Japan*, 19(5), 2021,
+*TRANSACTIONS of the JASS, Aerospace Technology Japan*, 19(5), 2021. 
 <!-- *Keywords:* Space Plug-and-Play, micro-satellite, payload integration, Earth observation  -->
 [PDF](https://www.jstage.jst.go.jp/article/tastj/19/5/19_19.784/_article/-char/en/) 
 <!--/ [DOI](https://doi.org/10.2322/tastj.19.784)-->
@@ -128,7 +129,7 @@ Maximilien Berthet, **Morokot Sakal**, Penghuy Srean, Sotheara Oum, Polimey Im, 
 ### Ground Evaluation of the Attitude Control System of 3U-CubeSat IHI-SAT
 <!-- Hardware-in-the-loop ground evaluation of the IHI-SAT attitude control system. -->
 Yu Murata, Yuji Sato, **Morokot Sakal**, Toshinori Kuwahara, Shinya Fujita, Yuko Kawasoe, Ryu Shinohara, Taku Izumiyama  
-*2020 IEEE/SICE International Symposium on System Integration*
+*IEEE/SICE International Symposium on System Integration*, 2020.
 <!-- *Keywords:* ADCS, CubeSat, HIL simulation, ground testing -->
 [PDF](https://tohoku.elsevierpure.com/en/publications/ground-evaluation-of-the-attitude-control-system-of-3u-cubesat-ih) 
 <!-- / [DOI](https://doi.org/10.1109/SII46433.2020.9025825)-->
