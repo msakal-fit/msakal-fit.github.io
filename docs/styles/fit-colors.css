@@ -7,11 +7,17 @@
   --fit-crimson: #770000;
   --fit-gold: #AB946C;
   --fit-gray: #CBCCCE;
+  --md-primary-fg-color: var(--fit-crimson);
+  --md-primary-fg-color--light: #8d1a1a;
+  --md-primary-fg-color--dark: #5b0000;
+  --md-accent-fg-color: var(--fit-gold);
 }
 
-/* Material for MkDocs color variables */
+/* Keep Material's default scheme aligned with the FIT palette. */
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: var(--fit-crimson);
+  --md-primary-fg-color--light: #8d1a1a;
+  --md-primary-fg-color--dark: #5b0000;
   --md-accent-fg-color: var(--fit-gold);
 }
 
