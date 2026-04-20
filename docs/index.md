@@ -45,7 +45,7 @@ I work on guidance, navigation, and control (GNC), adaptive/learning controllers
 **Morokot Sakal**, Camilo Riano-Rios, Madhur Tiwari  
 *AIAA SciTech Forum*, 2026. 
 <!--[DOI](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2625) / -->
-[PDF](https://www.camilori.com/files/2026-aiaa-scitech-1.pdf) / [Video](https://youtu.be/Iv0AO12XWS0)
+[PDF](https://www.camilori.com/files/2026-aiaa-scitech-1.pdf) / [Talk](https://youtu.be/Iv0AO12XWS0)
 
   </div>
 </div>
@@ -59,7 +59,7 @@ I work on guidance, navigation, and control (GNC), adaptive/learning controllers
 **Morokot Sakal**, George M. Nehma, Camilo Riano-Rios, Madhur Tiwari  
 *Journal of Guidance, Control, and Dynamics* (Under Review); *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-682.
 
-[PDF](https://www.camilori.com/files/2025-aiaa-asc-1.pdf) / [Video](https://youtu.be/a6q9D74rS3w)
+[PDF](https://www.camilori.com/files/2025-aiaa-asc-1.pdf) / [Talk](https://youtu.be/a6q9D74rS3w)
 
   </div>
 </div>
@@ -87,7 +87,7 @@ George M. Nehma, Camilo Riano-Rios, **Morokot Sakal**, Madhur Tiwari
 **Morokot Sakal**, George Nehma, Camilo Riano-Rios, Madhur Tiwari  
 *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-778.
 
-[PDF](https://www.camilori.com/files/2025-aiaa-asc-2.pdf) / [Video](https://youtu.be/XByTKIB5-vI)
+[PDF](https://www.camilori.com/files/2025-aiaa-asc-2.pdf) / [Talk](https://youtu.be/XByTKIB5-vI)
 
   </div>
 </div>

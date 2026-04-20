@@ -9,11 +9,15 @@
   gap: 20px;
   align-items: center;
   padding: 16px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
   border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
 }
 
 /* alternating background */
-.projects .proj:nth-child(even) { background: rgba(0,0,0,.035); }
+.projects .proj:nth-child(odd) { background: #ffffff; }
+.projects .proj:nth-child(even) { background: #f2f2f2; }
 [data-md-color-scheme="slate"] .projects .proj:nth-child(even) { background: rgba(255,255,255,.06); }
 
 /* image and text placement */
