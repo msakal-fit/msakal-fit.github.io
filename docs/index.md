@@ -54,7 +54,7 @@ I work on guidance, navigation, and control (GNC), adaptive/learning controllers
   <img src="assets/rbfnn-rw.png" alt="Reaction wheel health estimation via RBFNN thumbnail">
   <div class="txt" markdown="1">
 
-### Radial Basis Function Neural Network–Based Adaptive Attitude Control with Reaction–Wheel Health Estimation
+### RBFNN–Based Adaptive Attitude Control with Reaction–Wheel Health Estimation
 <!--RBFNN-based adaptive attitude control with integrated reaction-wheel health estimation. -->
 **Morokot Sakal**, George M. Nehma, Camilo Riano-Rios, Madhur Tiwari  
 *Journal of Guidance, Control, and Dynamics* (Under Review); *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-682.
