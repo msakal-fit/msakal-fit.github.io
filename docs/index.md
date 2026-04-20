@@ -18,7 +18,7 @@ I worked with [Dr. Maximilien Berthet](https://www.maximilienberthet.com/) on th
 I enjoy mentoring student teams in robotics competitions, including the [World Robotics Olympiad](https://sites.google.com/view/aupphsrobotics/wro?authuser=0) and Cambodia Robotics Competition, as well as space competitions such as the [International Space Challenge](https://spacefaculty.asia/isc/).
 
 <!-- [Email](mailto:morokot@example.com) / -->
-[Google Scholar](https://scholar.google.com/citations?user=43ccP74AAAAJ&hl=en) /  [LinkedIn](https://www.linkedin.com/in/morokot-sakal/) / [GitHub](https://github.com/msakal-fit) / [YouTube](https://www.youtube.com/@msakal2024)
+[Google Scholar](https://scholar.google.com/citations?user=43ccP74AAAAJ&hl=en) /  [LinkedIn](https://www.linkedin.com/in/morokot-sakal/) / [GitHub](https://github.com/msakal-fit) / [YouTube](https://www.youtube.com/@msakal-fit)
 
 </div>
 
