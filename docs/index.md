@@ -15,7 +15,7 @@ Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University]
 
 I worked with [Dr. Maximilien Berthet](https://www.maximilienberthet.com/) on the 1U CubeSat [Apsara-1](http://dclab.itc.edu.kh/ut-itc-cube-satellite-project) project in Cambodia, a collaboration between the [Dynamics and Control Laboratory](http://dclab.itc.edu.kh/) at [Institute of Technology of Cambodia](https://itc.edu.kh/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/). We submitted the design specification to the 6th-round [KiboCUBE](https://www.unoosa.org/oosa/en/ourwork/access2space4all/KiboCUBE/KiboCUBE_Index.html) call.
 
-I enjoy mentoring student teams in robotics competitions, including the [World Robotics Olympiad](https://sites.google.com/view/aupphsrobotics/wro?authuser=0) and Cambodia Robotics Competition, as well as space competitions such as the [International Space Challenge](https://spacefaculty.asia/isc/).
+I enjoy mentoring student teams in robotics competitions, including the [World Robotics Olympiad](https://sites.google.com/view/aupphsrobotics/wro) and Cambodia Robotics Competition, as well as space competitions such as the [International Space Challenge](https://spacefaculty.asia/isc/).
 
 <!-- [Email](mailto:morokot@example.com) / -->
 [Google Scholar](https://scholar.google.com/citations?user=43ccP74AAAAJ&hl=en) /  [LinkedIn](https://www.linkedin.com/in/morokot-sakal/) / [GitHub](https://github.com/msakal-fit) / [YouTube](https://www.youtube.com/@msakal-fit)
@@ -32,7 +32,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 
 
 ## Research
-I work on guidance, navigation, and control (GNC), adaptive/learning controllers, and hardware-in-the-loop (HIL) testbeds for small spacecraft. My previous work at Tohoku University included plug-and-play payload integration and fault detection and recovery software to support mission operations.
+I work on guidance, navigation, and control (GNC), adaptive/learning-based controllers, and hardware-in-the-loop (HIL) testbeds for small spacecraft. My previous work at Tohoku University included plug-and-play payload integration and fault detection and recovery software to support mission operations.
 
 <div class="projects" markdown="1">
 

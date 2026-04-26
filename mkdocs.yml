@@ -7,6 +7,8 @@ site_url: https://msakal-fit.github.io/
 
 nav:
   - Home: index.md
+  - Portfolio:
+      - AUPPHS Robotics: aupphs-robotics.md
 
 theme:
   name: material
