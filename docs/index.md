@@ -139,3 +139,6 @@ Yu Murata, Yuji Sato, **Morokot Sakal**, Toshinori Kuwahara, Shinya Fujita, Yuko
 
 </div>  <!-- end .projects -->
 
+<p class="inspiration-note">
+  Design inspiration from <a href="https://kevintracy.info/">Kevin Tracy</a>.
+</p>
