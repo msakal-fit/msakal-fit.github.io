@@ -1,13 +1,13 @@
 site_name: Morokot Sakal
 site_description: From Cambodia to Space
-site_url: https://msakal-fit.github.io/
+site_url: https://msakal.com
 
 #repo_url: https://github.com/msakal-fit/msakal-fit.github.io
 #repo_name: msakal-fit/msakal-fit.github.io
 
 nav:
   - Home: index.md
-  - Portfolio:
+  - Teaching:
       - AUPPHS Robotics: aupphs-robotics.md
 
 theme:
