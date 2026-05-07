@@ -1,8 +1,8 @@
 ---
-title: AUPPHS Robotics Portfolio
+title: AUPPHS Robotics
 ---
 
-# AUPPHS Robotics Portfolio
+# AUPPHS Robotics
 
 Redirecting to my AUPPHS Robotics / WRO portfolio...
 
