@@ -23,7 +23,7 @@ I enjoy mentoring student teams in robotics competitions, including the [World R
 </div>
 
 <div class="home-hero__photo">
-  <img src="assets/profile.jpg" alt="Morokot Sakal" />
+  <img src="assets/profile.png" alt="Morokot Sakal" />
 </div>
 
 </div>
