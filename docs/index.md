@@ -9,7 +9,7 @@ hide:
 
 # Morokot Sakal
 
-I’m a PhD student in Aerospace Engineering at [Florida Institute of Technology](https://www.fit.edu/), supervised by [Dr. Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). 
+I’m a PhD student in Aerospace Engineering at [Florida Institute of Technology](https://www.fit.edu/), supervised by [Dr. Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). I also collaborate with [Dr. Madhur Tiwari](https://www.fit.edu/faculty-profiles/t/tiwari-madhur/) of [The Autonomy Lab](https://www.theautonomylab.com/).
 
 Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/) in Japan, where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html). 
 
@@ -71,7 +71,7 @@ I work on guidance, navigation, and control (GNC), adaptive/learning-based contr
 ### Adaptive Controller for Simultaneous Spacecraft Attitude Tracking and Reaction Wheel Fault Detection
 <!--Adaptive control for attitude tracking with simultaneous reaction wheel fault detection.  -->
 George M. Nehma, Camilo Riano-Rios, **Morokot Sakal**, Madhur Tiwari  
-*Journal of Spacecraft and Rockets* (Accepted), 2026.
+*Journal of Spacecraft and Rockets*, 2026.
 
 [PDF](https://www.camilori.com/files/2026-aiaa-jsc-1.pdf)
 
