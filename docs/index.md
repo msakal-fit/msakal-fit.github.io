@@ -131,7 +131,7 @@ Maximilien Berthet, **Morokot Sakal**, Penghuy Srean, Sotheara Oum, Polimey Im, 
 Yu Murata, Yuji Sato, **Morokot Sakal**, Toshinori Kuwahara, Shinya Fujita, Yuko Kawasoe, Ryu Shinohara, Taku Izumiyama  
 *IEEE/SICE International Symposium on System Integration*, 2020.
 <!-- *Keywords:* ADCS, CubeSat, HIL simulation, ground testing -->
-[PDF](https://tohoku.elsevierpure.com/en/publications/ground-evaluation-of-the-attitude-control-system-of-3u-cubesat-ih) 
+[PDF](https://ieeexplore.ieee.org/abstract/document/9025825) 
 <!-- / [DOI](https://doi.org/10.1109/SII46433.2020.9025825)-->
 
   </div>
