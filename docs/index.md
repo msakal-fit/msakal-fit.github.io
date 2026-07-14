@@ -11,7 +11,7 @@ hide:
 
 I’m a PhD student in Aerospace Engineering at [Florida Institute of Technology](https://www.fit.edu/), supervised by [Dr. Camilo A. Riano-Rios](https://www.fit.edu/faculty-profiles/r/riano-rios-camilo/) in the [Space Vehicles and Robotics (SVR) Lab](https://www.camilori.com/svr-lab/). I also collaborate with [Dr. Madhur Tiwari](https://www.fit.edu/faculty-profiles/t/tiwari-madhur/) of [The Autonomy Lab](https://www.theautonomylab.com/).
 
-Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/) in Japan, where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html). 
+Previously, I earned my M.Eng. in Aerospace Engineering from [Tohoku University](https://www.tohoku.ac.jp/en/) in Japan, where I worked with [Dr. -Ing. Toshinori Kuwahara](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/members/toshinori-kuwahara) in the [Space Infrastructure Engineering Laboratory](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/en/), formerly part of the [Space Robotics Laboratory](https://astro2.mech.tohoku.ac.jp/en/), founded and led by [Professor Kazuya Yoshida](https://www.r-info.tohoku.ac.jp/en/a244e25d5de7c27b98f52b99e58c78fe.html). I contributed to the development and testing of the 50 kg-class microsatellite [RISESAT](https://www.space-infrastructure.gxt.ggi.tohoku.ac.jp/project/risesat) and the 3U CubeSat [IHI-SAT](https://www.ihi.co.jp/en/all_news/2021/aeroengine_space_defense/1197719_3366.html). 
 
 I worked with [Dr. Maximilien Berthet](https://www.maximilienberthet.com/) on the 1U CubeSat [Apsara-1](https://dclab.itc.edu.kh/ut-itc-cube-satellite-project) project in Cambodia, a collaboration between the [Dynamics and Control Laboratory](https://dclab.itc.edu.kh/) at [Institute of Technology of Cambodia](https://itc.edu.kh/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/). We submitted the design specification to the 6th-round [KiboCUBE](https://www.unoosa.org/oosa/en/ourwork/access2space4all/KiboCUBE/KiboCUBE_Index.html) call.
 
@@ -54,10 +54,10 @@ I work on guidance, navigation, and control (GNC), adaptive/learning-based contr
   <img src="assets/rbfnn-rw.png" alt="Reaction wheel health estimation via RBFNN thumbnail">
   <div class="txt" markdown="1">
 
-### RBFNN–Based Adaptive Attitude Control with Reaction–Wheel Health Estimation
+### Radial-Basis-Function-Neural-Network-Based Adaptive Attitude Control with Reaction Wheel Health Estimation
 <!--RBFNN-based adaptive attitude control with integrated reaction-wheel health estimation. -->
 **Morokot Sakal**, George M. Nehma, Camilo Riano-Rios, Madhur Tiwari  
-*Journal of Guidance, Control, and Dynamics* (Under Review); *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-682.
+*Journal of Guidance, Control, and Dynamics*, 2026, pp. 1-10; *AAS/AIAA Astrodynamics Specialist Conference*, 2025, AAS 25-682.
 
 [PDF](https://www.camilori.com/files/2025-aiaa-asc-1.pdf) / [Talk](https://youtu.be/a6q9D74rS3w)
 
